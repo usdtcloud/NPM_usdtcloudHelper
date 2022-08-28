@@ -1,0 +1,19 @@
+{
+  "name": "@usdtcloud/helper",
+  "version": "0.0.1",
+  "description": "usdtcloud's tools helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "usdtcloud",
+    "helper"
+  ],
+  "author": "usdtcloud@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27",
+    "web3": "^1.7"
+  }
+}
