@@ -1,6 +1,6 @@
 {
   "name": "@usdtcloud/helper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "usdtcloud's tools helper",
   "main": "index.js",
   "scripts": {
