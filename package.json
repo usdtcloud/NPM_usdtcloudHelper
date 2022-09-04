@@ -1,16 +1,26 @@
 {
   "name": "@usdtcloud/helper",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "usdtcloud's tools helper",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "usdtcloud",
     "helper"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usdtcloud/NPM_usdtcloudHelper.git"
+  },
   "author": "usdtcloud@gmail.com",
+  "authors": [
+    {
+      "name": "usdtcloud",
+      "email": "usdtcloud@gmail.com",
+      "homepage": "https://github.com/usdtcloud"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "axios": "^0.27",
